@@ -1,3 +1,3 @@
 # lab1_tallerDeDesarrollo
 
-cambios realizados desde rama main
+esto es un cambio en rama desarrollo
